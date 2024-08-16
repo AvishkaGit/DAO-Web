@@ -12,6 +12,8 @@ img{
     width: 400px;
     height: 250px;
     border-radius: 10px;
+    box-shadow:  3px 3px 10px#000B4F,
+             -5px -5px 10px #a6b3cc; 
     
 }
 .para{
@@ -20,4 +22,5 @@ img{
     gap: 2em;
     border-radius: 10px;
     background-color: #a6b3cc;
+    padding: 1em;
 }
