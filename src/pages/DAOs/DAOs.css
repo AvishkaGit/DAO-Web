@@ -5,16 +5,19 @@
    padding-top: 2em;
    font-family: Arial, Helvetica, sans-serif;
    color: #272d50;
+   
 }
 
 img{
     width: 400px;
+    height: 250px;
     border-radius: 10px;
+    
 }
 .para{
     width: 400px;
     margin: 0 auto;
     gap: 2em;
-    /* border: 1px solid #272d50; */
     border-radius: 10px;
+    background-color: #a6b3cc;
 }

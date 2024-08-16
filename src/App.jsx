@@ -1,5 +1,6 @@
 import './App.css'
 import BodyContent from './Components/BodyContent/BodyContent'
+import Footer from './Components/FooterContent/Footer'
 import HeaderContent from './Components/HeaderContent/HeaderContent'
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
 
 
       </BodyContent>
+      <Footer/>
 
 
     </>
