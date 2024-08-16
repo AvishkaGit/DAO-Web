@@ -1,6 +1,7 @@
 .row{
     display: flex;
     flex-wrap: wrap;
+    margin: 0 auto;
 
 }
 .left img{
@@ -17,7 +18,7 @@
     font-size: 3rem;
     font-family: Arial, Helvetica, sans-serif; 
     padding: 0.9em;
-    color:#272d50 ;
+    color:#272d50 
 }
 .content p{
     font-size: 1.3rem;
