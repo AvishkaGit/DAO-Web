@@ -1,10 +1,12 @@
-.home{
-    font-size: 3em;
+.row{
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
-
-img{
-    width: 90vh;
-    padding: 2em 1em;
-    border-radius: 5px;
-    margin: 0 auto;
+.left img{
+    width: 45vw;
+    height: 50vh;
+    margin: 2em;
+}
+.content{
+    padding-top: 7em;
 }
